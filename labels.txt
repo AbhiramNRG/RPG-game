@@ -1,0 +1,3 @@
+0 attack
+1 shield
+2 super
