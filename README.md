@@ -1,1 +1,1 @@
-# RPG-game
+# Rock, Paper, Scissors
